@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cities>
+    <city>
+        <id>5</id>
+        <name>Aktau</name>
+        <coordinates>
+            <x>152.0</x>
+            <y>163.0</y>
+        </coordinates>
+        <creationDate>2022-01-12</creationDate>
+        <area>70.0</area>
+        <population>12345</population>
+        <metersAboveSeaLevel>20</metersAboveSeaLevel>
+        <timezone>5.0</timezone>
+        <capital>false</capital>
+        <government>PLUTOCRACY</government>
+        <governor>
+            <age>60</age>
+        </governor>
+    </city>
+</cities>
